@@ -1,0 +1,43 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 5%;
+    text-align: justify;
+    background-color: blanchedalmond;
+    text-indent: 10px;
+}
+
+
+h1{
+    text-align: center;
+}
+
+table.table1{
+    width: 100%;
+    border-top: 2px solid gray;
+    border-bottom: 2px solid gray;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+
+td{
+    text-align: center;
+}
+
+.okvir{
+    border: 2px solid lightslategray;
+    width: 150px;
+
+}
+
+h3{
+    background-color: aliceblue;
+    width: 150px;
+}
+
+h4{
+    text-decoration: underline;
+}
